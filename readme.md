@@ -2,9 +2,9 @@
 
 - [x] Mean Median Mode
 - [x] Standard Deviation
-- [x] Percentiles
-- [x] Data Distribution
-- [x] Normal Data Distribution
+- [ ] Percentiles
+- [ ] Data Distribution
+- [ ] Normal Data Distribution
 - [ ] Scatter Plot
 - [ ] Linear Regression
 - [ ] Polynomial Regression
